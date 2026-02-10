@@ -9,9 +9,9 @@ import Home from './pages/Home.jsx'
 import About from './pages/About.jsx'
 import ContactUs from './pages/ContactUs.jsx'
 import Login from './pages/Login.jsx'
-import Features from "./pages/Features";
+import Features from "./pages/Features.jsx";
 import Pricing from './pages/Pricing.jsx'
-import SignUp from './pages/SignUp.jSX'
+import SignUp from './pages/SignUp.jsx'
 
 const router=createBrowserRouter([
   {
